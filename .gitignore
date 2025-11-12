@@ -1,0 +1,8 @@
+*.venv
+notebooks/.ipynb_checkpoints/
+__pycache__/
+__marimo__/
+.env
+.DS_Store
+.pytest_cache/
+.python-version

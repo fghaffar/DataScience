@@ -1,0 +1,13 @@
+[project]
+name = "datascience"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "graphviz>=0.21",
+    "jupyterlab>=4.4.10",
+    "marimo>=0.17.7",
+    "matplotlib>=3.10.7",
+    "torch>=2.9.0",
+]
